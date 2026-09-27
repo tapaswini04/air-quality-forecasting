@@ -58,7 +58,3 @@ Add 5–7 findings based on the actual charts and analysis in the notebook.
 
 * `air_quality_forecasting.ipynb` — Data cleaning, EDA, feature engineering, model training, and evaluation.
 
-## Author
-
-Tapaswini P.
-B.Tech CSE (Big Data Analytics), SRM Institute of Science and Technology
